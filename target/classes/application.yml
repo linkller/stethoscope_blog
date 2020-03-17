@@ -1,0 +1,23 @@
+server:
+  port: 8090
+
+spring:
+  #数据源
+  datasource:
+    url: jdbc:mysql://localhost:3306/springbootdb??useUnicode=true&amp;characterEncoding=UTF-8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  typeAliasesPackage: com.example.stethoscope_blog.dao.bean
+  mapperLocations: classpath:mabatis/mapper/*.xml
+  #configLocation: classpath:/mybatis-config.xml
+#showSQL
+logging:
+  level:
+    com:
+      example:
+        stethoscope_blog:
+          dao:
+            map : debug
