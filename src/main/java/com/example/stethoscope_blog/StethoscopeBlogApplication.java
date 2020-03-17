@@ -13,6 +13,7 @@ public class StethoscopeBlogApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(StethoscopeBlogApplication.class, args);
+
     }
 
 }
