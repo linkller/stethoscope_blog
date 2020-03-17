@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db0064d7-9888-423e-9064-75a060e8a621" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yvw8VZBQN2dz3GSc5unFrhATfG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML" />
+    <property name="last_opened_file_path" value="D:/JAVA_GIT/stethoscope_blog" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\C\JAVA\stethoscope_blog\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StethoscopeBlogApplication">
+    <configuration name="clean" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-X" />
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="StethoscopeBlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stethoscope_blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.stethoscope_blog.StethoscopeBlogApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.clean" />
+      <item itemvalue="Spring Boot.StethoscopeBlogApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db0064d7-9888-423e-9064-75a060e8a621" name="Default Changelist" comment="" />
+      <created>1583836220105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583836220105</updated>
+      <workItem from="1583836231057" duration="503000" />
+      <workItem from="1583836837280" duration="24559000" />
+      <workItem from="1584426416652" duration="5502000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交工程">
+      <created>1584427421527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584427421527</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交工程" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交工程" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Inspections" timestamp="1583836948469">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1583836948469" />
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583839458613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583839458613" />
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser" timestamp="1583917811246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="47" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583917811246" />
+    <state x="436" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583908744499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1583908744499" />
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1584427415060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584427415060" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584433088893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584433088893" />
+    <state width="1322" height="191" key="GridCell.Tab.0.bottom" timestamp="1584106702406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="191" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584106702406" />
+    <state width="1322" height="191" key="GridCell.Tab.0.center" timestamp="1584106702405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="191" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584106702405" />
+    <state width="1322" height="191" key="GridCell.Tab.0.left" timestamp="1584106702405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="191" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584106702405" />
+    <state width="1322" height="191" key="GridCell.Tab.0.right" timestamp="1584106702405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="191" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584106702405" />
+    <state width="1322" height="191" key="GridCell.Tab.1.bottom" timestamp="1584106702407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="191" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584106702407" />
+    <state width="1322" height="191" key="GridCell.Tab.1.center" timestamp="1584106702406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="191" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584106702406" />
+    <state width="1322" height="191" key="GridCell.Tab.1.left" timestamp="1584106702406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="191" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584106702406" />
+    <state width="1322" height="191" key="GridCell.Tab.1.right" timestamp="1584106702406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="191" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584106702406" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1584431864183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584431864183" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1584429218597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584429218597" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1584426408190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584426408190" />
+    <state x="0" y="0" width="786" height="728" key="find.popup" timestamp="1583840966656">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="786" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1583840966656" />
+    <state x="502" y="227" key="git4idea.rebase.GitRebaseDialog" timestamp="1584427689251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="502" y="227" key="git4idea.rebase.GitRebaseDialog/0.0.1366.728@0.0.1366.728" timestamp="1584427689251" />
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583914007982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1583914007982" />
+  </component>
+</project>
